@@ -1,4 +1,4 @@
-# 2026-TCAS-II-FALCON-FFT
+# 2026-IEEE-ACCESS-FALCON-FFT
 The Fast Fourier Transform (FFT) is a fundamental component of the Falcon framework. This project presents the source code for a higher mixed-radix approach to accelerate FFT/IFFT computations in Falcon. The implementation is developed based on the Falcon team’s open-source code, available at: https://falcon-sign.info/
 
 The project includes the following files:
